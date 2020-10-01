@@ -1,5 +1,5 @@
 helloworld
 ==========
 
-playing around with git
-commit 3
+Playing around with git
+commit 4
